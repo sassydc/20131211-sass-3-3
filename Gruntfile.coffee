@@ -31,7 +31,7 @@ module.exports = (grunt) ->
             jshint:
                 files: ['js/*.js']
                 tasks: ['jshint']
-        
+
             sass:
                 files: ['css/source/theme.scss']
                 tasks: ['sass']
@@ -41,7 +41,7 @@ module.exports = (grunt) ->
             theme:
                 files:
                     'css/theme.css': 'css/source/theme.scss'
-        
+
         connect:
 
             livereload:
@@ -87,6 +87,20 @@ module.exports = (grunt) ->
                     dest: 'dist/'
                     filter: 'isFile'
                 }]
+
+        buildcontrol:
+
+            options:
+                dir: 'dist'
+                commit: true
+                push: true
+                message: 'Built %sourceName% from commit %sourceCommit%
+                    on branch %sourceBranch%'
+
+            pages:
+                options:
+                    remote: 'git@github.com:sassydc/20131211-sass-3-3.git'
+                    branch: 'gh-pages'
 
 
     # Load all grunt tasks.
@@ -134,4 +148,9 @@ module.exports = (grunt) ->
     grunt.registerTask 'default', [
         'test'
         'server'
+    ]
+
+    grunt.registerTask 'deploy', [
+        'dist'
+        'buildcontrol:pages'
     ]
