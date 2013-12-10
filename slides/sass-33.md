@@ -1,3 +1,3 @@
 ##  Sass 3.3
 
-This is a new Markdown slide
+<pre><code>gem install sass --pre</code></pre>
