@@ -5,9 +5,16 @@
     "sass-33.md",
     "string-manipulation.md",
     "meta-scripting.md",
-    "new-and-improved.md",
-    "variable-scoping.md",
-    "maps.md",
+    [
+        "new-and-improved-1.md",
+        "new-and-improved-2.md",
+        "new-and-improved-3.md"
+    ],
+    [
+        "maps-1.md",
+        "maps-2.md",
+        "maps-3.md"
+    ],
     [
         "source-maps-1.md",
         "source-maps-2.md",
@@ -18,5 +25,6 @@
         "at-root-2.md",
         "at-root-3.md"
     ],
-    "why-should-i-care.md"
+    "why-should-i-care.md",
+    "credits.md"
 ]

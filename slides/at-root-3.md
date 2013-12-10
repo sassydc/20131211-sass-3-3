@@ -1,6 +1,6 @@
-### @at-root
+### Sass 3.3
 
-Uncompiled
+.scss
 
 <pre><code>.block {
   ...
@@ -10,7 +10,7 @@ Uncompiled
   }
 }</code></pre>
 
-Compiled
+.css
 
 <pre><code>.block { ... }
 .block-element { ... }</code></pre>

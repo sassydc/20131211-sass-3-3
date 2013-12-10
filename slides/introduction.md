@@ -1,5 +1,5 @@
 **Welch Canavan**
 
-Front End Developer at the National Geographic
+Front End Developer at National Geographic
 
 [@xiwcx](http://twitter.com/xiwcx)
