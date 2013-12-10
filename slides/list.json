@@ -3,5 +3,12 @@
     "index.md",
     "introduction.md",
     "sass-33.md",
-    "string-manipulation.md"
+    "string-manipulation.md",
+    "meta-scripting.md",
+    "new-and-improved.md",
+    "variable-scoping.md",
+    "maps.md",
+    "source-maps.md",
+    "at-root.md",
+    "why-should-i-care.md"
 ]

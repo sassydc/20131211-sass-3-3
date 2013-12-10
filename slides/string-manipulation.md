@@ -1,3 +1,4 @@
 ##  String Manipulation
 
-This is a new Markdown slide
+is-quoted(), str-length(), str-index(), str-instert(), str-slice(), to-upper-case(), to-lower-case()
+
