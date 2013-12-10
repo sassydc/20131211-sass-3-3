@@ -8,7 +8,15 @@
     "new-and-improved.md",
     "variable-scoping.md",
     "maps.md",
-    "source-maps.md",
-    "at-root.md",
+    [
+        "source-maps-1.md",
+        "source-maps-2.md",
+        "source-maps-3.md"
+    ],
+    [
+        "at-root-1.md",
+        "at-root-2.md",
+        "at-root-3.md"
+    ],
     "why-should-i-care.md"
 ]
