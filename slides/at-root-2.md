@@ -1,6 +1,4 @@
-### @at-root
-
-Uncompiled
+.scss
 
 <pre><code>.block {
   ...
@@ -8,7 +6,7 @@ Uncompiled
   .block-element { ... }
 }</code></pre>
 
-Compiled
+.css
 
 <pre><code>.block { ... }
 .block .block-element { ... }</code></pre>
