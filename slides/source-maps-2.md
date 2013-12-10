@@ -1,4 +1,4 @@
-Old
+### Sass 3.2
 
 <pre><code>$ sass --debug-info style.scss:style.css</code></pre>
 

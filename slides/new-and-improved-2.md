@@ -1,5 +1,3 @@
-### 3.2
-
 .scss
 
 <pre><code>.block-element {

@@ -1,4 +1,5 @@
-New
+### Sass 3.3
+
 <pre><code>$ sass --sourcemap style.scss:style.css</code></pre>
 
 <pre><code>{
