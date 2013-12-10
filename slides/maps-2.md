@@ -1,5 +1,3 @@
-### Sass 3.2
-
 .scss
 
 <pre><code>$bp-sm: 30em;
