@@ -6,7 +6,7 @@
   ...
 
   @at-root {
-    .#{&}--modifier { ... }
+    #{&}--modifier { ... }
   }
 }</code></pre>
 
