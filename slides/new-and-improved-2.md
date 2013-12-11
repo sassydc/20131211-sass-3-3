@@ -2,12 +2,12 @@
 
 <pre><code>.block-element {
 
-  & > a { ... }
+  &:active { ... }
 
   .unauthenticated & { ... }
 }</code></pre>
 
 .css
 
-<pre><code>.block-element > a { ... }
+<pre><code>.block-element:active { ... }
 .unauthenticated .block-element { ... }</code></pre>
