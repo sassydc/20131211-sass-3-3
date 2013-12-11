@@ -1,5 +1,7 @@
-**Welch Canavan**
+**welch canavan ([@xiwcx](http://twitter.com/xiwcx))**
 
 Front End Developer at National Geographic
 
-[@xiwcx](http://twitter.com/xiwcx)
+former co-host of Sassy PGH
+
+current co-host of Sassy DC
